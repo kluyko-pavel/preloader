@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.round {
+  position: absolute;
+  top: 20%;
+  left: 45%;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 8px solid yellowgreen;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  animation: load 2s infinite linear;
+}
+@keyframes load {
+  100% {
+    transform: rotate(360deg);
+  }
+}
