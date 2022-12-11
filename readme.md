@@ -1,4 +1,4 @@
 # Preloader
 
-[Link}(https://kluyko-pavel.github.io/preloader/)
+[Link](https://kluyko-pavel.github.io/preloader/)
 
